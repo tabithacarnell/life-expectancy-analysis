@@ -10,6 +10,7 @@ This project explores the statistical relationship between key development indic
 - Pearson correlation analysis
 - Simple and multiple regression modelling
 - R² and F-test interpretations
+- Critical analysis and interpretation of data trends and outcomes
 
 ## Data Source
 
